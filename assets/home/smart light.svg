@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.765" height="112.39" viewBox="0 0 66.765 112.39">
+  <g id="smart_light" data-name="smart light" transform="translate(-2214.95 -82)">
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="2.12" height="52.94" transform="translate(2247.65 82)" fill="#beb6a6"/>
+    <path id="Path_68" data-name="Path 68" d="M159.35,116h-42a28.38,28.38,0,0,0-12.7,22.5l66.7.36a24.45,24.45,0,0,0-12-22.86Z" transform="translate(2110.3 31.49)" fill="#beb6a6"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="22.15" height="6.84" transform="translate(2237.62 138.18)" fill="#beb6a6"/>
+    <path id="Path_69" data-name="Path 69" d="M147.18,143.31H129.71a9.07,9.07,0,0,0,7.58,8.78C142,152.69,146.87,148.79,147.18,143.31Z" transform="translate(2110.3 31.49)" fill="#f5ed5e"/>
+    <line id="Line_1" data-name="Line 1" x1="5.29" y2="7.24" transform="translate(2231.54 181.15)" fill="none" stroke="#beb6a6" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y2="7.86" transform="translate(2248.74 186.53)" fill="none" stroke="#beb6a6" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="5.74" y2="6" transform="translate(2259.77 182.39)" fill="none" stroke="#beb6a6" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50.94" height="65.29" viewBox="0 0 50.94 65.29">
+  <g id="smart_fan" data-name="smart fan" transform="translate(-2358.62 -265.51)">
+    <path id="Path_77" data-name="Path 77" d="M278.05,287.51h-9.41a.91.91,0,0,0-.64.27l-10,10a.89.89,0,0,0,.63,1.53h30.76a.9.9,0,0,0,.59-1.57l-11.37-10a.89.89,0,0,0-.56-.23Z" transform="translate(2110.3 31.49)" fill="#2b2925"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.93" cy="2.93" r="2.93" transform="translate(2381.21 287.77)" fill="#beb6a6"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="23.97" cy="23.97" r="23.97" transform="translate(2360.12 267.01)" fill="none" stroke="#beb6a6" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_78" data-name="Path 78" d="M286.51,256.29c4.61,0,7.9,1,7.4,5.48-.56,5-4.21,6.57-8.82,6.39-3.32-.14-7.3-.16-7.17-4.62C278.1,257.86,282.81,256.87,286.51,256.29Z" transform="translate(2110.3 31.49)" fill="#1e1e1e"/>
+    <path id="Path_79" data-name="Path 79" d="M271.18,267.69c-1.16,4.36-1.54,8.76-6.7,8.17-4.09-.47-5.13-3.81-4.87-7.52s2.39-6.84,6-6.93C269.6,261.3,270.77,264.85,271.18,267.69Z" transform="translate(2110.3 31.49)" fill="#242424"/>
+    <path id="Path_80" data-name="Path 80" d="M270.25,254.57c-3.69-1.21-7.65-2.93-7.56-7.89.06-3,2.89-4.31,5.73-4.17,4.87.23,7.38,3,7.54,7.94C276.09,254.42,273.2,254.2,270.25,254.57Z" transform="translate(2110.3 31.49)" fill="#161616"/>
+  </g>
+</svg>
